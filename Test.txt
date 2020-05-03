@@ -5,4 +5,10 @@ To help me understand pull and push
 
 I make a different changes compared with dev branch~~~~
 
+
 Here is a new change from dev branch.
+
+I hope to make this change to master.
+
+Now you can see they are merge together.
+
